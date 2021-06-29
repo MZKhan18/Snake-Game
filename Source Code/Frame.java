@@ -105,7 +105,7 @@ public class Frame extends JFrame implements ActionListener {
 	
 	menuBar.add(sound); //sound menu code finished
 	
-	ImageIcon image = new ImageIcon("res/gameLogo.png"); //create an ImageIcon
+	ImageIcon image = new ImageIcon(getClass().getClassLoader().getResource("gameLogo.png")); //create an ImageIcon
 	this.setIconImage(image.getImage());  // change icon of frame
 	
 	this.add(panel);
