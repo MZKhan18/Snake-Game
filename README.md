@@ -1,6 +1,6 @@
 # Snake Game
 
-### Created a new desktop application "Snake Game". Have a look at it and if you liked it then I am making the source code available in the "Source Code" code folder so that you can give it a try 🤘.
+## Created a new desktop application "Snake Game". Have a look at it and if you liked it then I am making the source code available in the "Source Code" code folder so that you can give it a try 🤘.
 
 ## How to Create :
 ### If you want to create this game then follow the below steps :
@@ -16,5 +16,4 @@
 #### 7. Copy paste all the resource files (points1.wav, collision.wav, imageLogo.png) to "res" folder of your java project.
 #### 8. Now your project is ready and you can run it 🙂.
 
-## If you don't want to create the game but want to play then don't worry, sooner than later I will upload the .exe file of this app so that you can install it
-## in your device and run it 😉.
+## If you don't want to create the game but want to play then don't worry, sooner than later I will upload the .exe file of this app so that you can install it in your device and run it 😉.
