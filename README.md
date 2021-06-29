@@ -1,5 +1,5 @@
 # Snake Game
-<a href="https://imgflip.com/gif/5exz2m"><imag src="https://imgflip.com/gif/5exz2m" title="made at imageflip.com"/></a>
+
 
 ## Created a new desktop application "Snake Game". Have a look at it and if you liked it then I am making the source code available in the "Source Code" code folder so that you can give it a try 🤘.
 
