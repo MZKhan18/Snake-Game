@@ -8,9 +8,9 @@
 ##### 1. Open Eclipse IDE and create a new Java Project (Give it any name you want).
 ##### 2. Then create a package named gameCode (case sensitive) in your src directory of java project.
 ##### 3. Then Create the following three java classes under your gameCode package (Name the classes correctly as mentioned).
-   #####    a. MainClass (This will have a Main method).
-   #####    b. Frame.
-   #####    c. Panel.
+######    a. MainClass (This will have a Main method).
+######    b. Frame.
+######    c. Panel.
 ##### 4. Now copy the source code of each class from the "Source Code" folder and paste it to the respective classes in your eclipse java project.
 ##### 5. Don't forget to copy the files i.e. the sound effects and images from the "Resource" folder.
 ##### 6. Create a folder named "res" in your java project.
