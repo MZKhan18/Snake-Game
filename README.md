@@ -1,5 +1,6 @@
 # Snake Game
 
+![5exz2m](https://user-images.githubusercontent.com/83308074/123861509-1e701a00-d8dc-11eb-994f-ecc3315a307f.gif)
 
 ## Created a new desktop application "Snake Game". Have a look at it and if you liked it then I am making the source code available in the "Source Code" code folder so that you can give it a try 🤘.
 
